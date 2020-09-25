@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App_RadioButton</string>
+    <string name="txt_num1_String">Primer valor</string>
+    <string name="txt_num2_String">Segundo valor</string>
+    <string name="button_Calcular">Calcular</string>
+    <string name="lbl_Resultado">Resultado de la Operación : </string>
+    <string name="lbl_Operacion"></string>
+    <string name="rb_suma">Sumar los números</string>
+    <string name="rb_resta">Restar los números</string>
+    <string name="rb_multiplicacion">Multiplicar</string>
+    <string name="rb_dividir">División</string>
+    <string name="rb_potencia">Potencia</string>
+</resources>
